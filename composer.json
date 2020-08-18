@@ -1,0 +1,19 @@
+{
+    "name": "xmsi/admin",
+    "description": "This is simple admin and login sb2 respect",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xmsi\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xmsi",
+            "email": "muhammadumarsotvoldiev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
